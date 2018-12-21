@@ -131,9 +131,24 @@ h1{
 
   nav>ul>li>a:hover,
   nav>ul>li>a:active {
-      text-decoration: underline;
-      color: lightblue;
+      text-decoration: none white solid ;
+      color:black; 
+  } 
+
+  /* Image Styles */ 
+  /* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+  } */ 
+
+h1 { 
+    position: relative; 
+    text-align: center;
+    color: black; 
   }
+    
 
 
 
